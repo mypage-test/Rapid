@@ -1,0 +1,415 @@
+@media (max-width: 767px) {
+    .nav{
+        background: #ffffff;
+        position: relative;
+        top: -8px;
+    }
+    .a0 .caption{
+        margin-top: -60px;
+    }
+    .a0 h1 {
+        font-size: 30px;
+    }
+
+    .a0 span {
+        font-size: 30px;
+    }
+
+    .services .box.col-lg-4 {
+        width: 84.333333%;
+    }
+
+    .why-choose .caption .img-responsive {
+        margin-bottom: 40px;
+
+    }
+
+    .why-choose h2 {
+        font-size: 35px;
+    }
+
+    .why-choose p {
+        font-size: 14px;
+    }
+
+    .why-choose .caption p {
+        font-size: 16px;
+        font-weight: 300;
+    }
+
+    .why-choose .caption .features p {
+        font-size: 15px;
+    }
+
+    .action {
+        padding-bottom: 80px;
+    }
+
+    .action .toggle-center {
+        text-align: center;
+    }
+
+    .action .start {
+        top: 30px;
+    }
+
+    .testimonials .test-top img {
+        margin: 0 auto;
+    }
+
+    .testimonials h3,
+    .testimonials h4,
+    .testimonials p {
+        text-align: center;
+    }
+
+    .testimonials p {
+        font-style: italic;
+    }
+
+    .testimonials .test-top .carousel-indicators {
+        top: 350px;
+    }
+
+    .testimonials .test-top {
+        padding-top: 30px;
+    }
+
+    .team .wtf img {
+        margin-bottom: 20px;
+    }
+
+    .our-clients .col-xs-6 {
+        width: 16%;
+    }
+
+    .our-clients .carousel-indicators {
+        top: 104px;
+    }
+
+    .pricing .col-lg-4 {
+        width: 88.333%;
+    }
+
+    .pricing .pricing-box {
+        margin-bottom: 50px;
+    }
+
+    .pricing .pricing-box .btn-lg,
+    .btn-group-lg>.btn {
+        margin-top: 20px;
+        margin-left: 36.666667%;
+    }
+
+    .first .btn-primary {
+        right: 0;
+        left: 80%;
+        bottom: 49px;
+    }
+
+    .first .form-control {
+        width: 82%;
+    }
+
+    .three .btn-lg,
+    .btn-group-lg>.btn {
+        margin-top: 10px;
+        margin-left: 36.666667%;
+    }
+
+    .features-2 {
+        padding-bottom: 150px;
+    }
+
+    .features-2 img {
+        margin-left: 12%;
+    }
+
+    .features-2 .img-fu2 {
+        position: relative;
+        bottom: 47rem;
+
+    }
+
+    .features-2 .caption {
+        margin-left: 12%;
+    }
+
+    .features-2 .caption:nth-child(2) {
+        top: 10rem;
+    }
+
+    .features-2 .caption:nth-child(1) {
+        top: 40rem;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .nav>li>a {
+        padding: 0 7px;
+
+    }
+
+    .nav>li>a {
+        font-size: 14px;
+    }
+
+    .navbar-brand {
+        font-size: 34px;
+    }
+
+    .navbar-nav {
+        margin: 12.5px -15px;
+    }
+
+    .a0 h1 {
+        font-size: 30px;
+    }
+
+    .a0 span {
+        font-size: 30px;
+    }
+
+    .services p {
+        margin-bottom: 60px;
+    }
+
+    .services .box.col-lg-4 {
+        width: 43.333333%;
+    }
+
+    .why-choose .caption .img-responsive {
+        margin-bottom: 40px;
+
+    }
+
+    .why-choose h2 {
+        font-size: 35px;
+    }
+
+    .why-choose p {
+        font-size: 14px;
+    }
+
+    .why-choose .caption p {
+        font-size: 16px;
+        font-weight: 300;
+    }
+
+    .why-choose .caption .features p {
+        font-size: 15px;
+    }
+
+    .action {
+        padding-bottom: 80px;
+    }
+
+    .testimonials .test-top img {
+        margin: 0 auto;
+    }
+
+    .testimonials h3,
+    .testimonials h4,
+    .testimonials p {
+        text-align: center;
+    }
+
+    .testimonials p {
+        font-style: italic;
+    }
+
+    .testimonials .test-top .carousel-indicators {
+        top: 350px;
+    }
+
+    .testimonials .test-top {
+        padding-top: 30px;
+    }
+
+    .team .wtf img {
+        margin-top: 20px;
+    }
+
+    .our-clients .col-xs-6 {
+        width: 16%;
+    }
+
+    .our-clients .carousel-indicators {
+        top: 104px;
+    }
+
+    .pricing .col-lg-4 {
+        width: 57.333%;
+        margin-left: 24%;
+    }
+
+    .pricing .pricing-box {
+        margin-bottom: 50px;
+    }
+
+    .pricing .pricing-box .btn-lg,
+    .btn-group-lg>.btn {
+        margin-top: 20px;
+        margin-left: 36.666667%;
+    }
+
+    .FAQ {
+        padding-bottom: 40px;
+    }
+
+    .FAQ h1 {
+        text-align: left;
+        margin-left: 2%;
+    }
+
+    .FAQ p {
+        text-align: left;
+        margin-bottom: 0;
+        margin-left: 2%;
+    }
+
+    .panel-title {
+        font-size: 18px;
+    }
+
+    .three {
+        margin-top: 40px;
+    }
+
+    .three h2,
+    .three p {
+        text-align: center;
+    }
+
+    .three .btn-lg,
+    .btn-group-lg>.btn {
+        margin-top: 10px;
+        margin-left: 36.666667%;
+    }
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .a0 img {
+        position: relative;
+        bottom: 13rem;
+    }
+
+    .a0 .caption {
+        margin-top: -50px;
+    }
+
+    .a0 .caption h1 {
+        font-size: 40px;
+    }
+
+    .a0 .caption span {
+        font-size: 40px;
+    }
+
+    .services p {
+        margin-bottom: 60px;
+    }
+
+    .services .box.col-lg-4 {
+        width: 43.333333%;
+    }
+
+    .why-choose .caption .img-responsive {
+        margin-bottom: 40px;
+
+    }
+
+    .why-choose h2 {
+        font-size: 35px;
+    }
+
+    .why-choose p {
+        font-size: 14px;
+    }
+
+    .why-choose .caption p {
+        font-size: 16px;
+        font-weight: 300;
+    }
+
+    .why-choose .caption .features p {
+        font-size: 15px;
+    }
+
+    .action {
+        padding-bottom: 80px;
+    }
+
+    .testimonials .test-top img {
+        margin: 0 auto;
+    }
+
+    .testimonials h3,
+    .testimonials h4,
+    .testimonials p {
+        text-align: center;
+    }
+
+    .testimonials p {
+        font-style: italic;
+    }
+
+    .testimonials .test-top .carousel-indicators {
+        top: 310px;
+    }
+
+    .testimonials .test-top {
+        padding-top: 30px;
+    }
+
+    .team .wtf img {
+        margin-top: 20px;
+    }
+
+    .our-clients .col-xs-6 {
+        width: 16%;
+    }
+
+    .our-clients .carousel-indicators {
+        top: 104px;
+    }
+
+    .pricing .pricing-box .btn-lg,
+    .btn-group-lg>.btn {
+        margin-top: 20px;
+        margin-left: 26.666667%;
+    }
+
+    .FAQ {
+        padding-bottom: 40px;
+    }
+
+    .FAQ h1 {
+        font-size: 30px;
+    }
+
+    .panel-title {
+        font-size: 18px;
+    }
+
+    .first .btn-primary {
+        right: 0px;
+        left: 95%;
+        bottom: 76px;
+        bottom: 35px;
+    }
+
+    .first .btn {
+        padding: 7px 12px;
+    }
+
+    .first .btn {
+        padding: 7px 12px;
+    }
+
+    .three {
+        margin-top: 40px;
+    }
+}
